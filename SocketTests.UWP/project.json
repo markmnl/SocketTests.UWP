@@ -1,6 +1,6 @@
 ﻿{
   "dependencies": {
-    "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.0-rc3-24008-00"
+    "Microsoft.NETCore.UniversalWindowsPlatform": "5.2.0-rc3-24022-00"
   },
   "frameworks": {
     "uap10.0": {}
